@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:title="Ver contador"
+    android:id="@+id/menu_contador"
+    app:showAsAction="always"
+    android:icon="@drawable/baseline_access_time_24"/>
+    <item android:title="Ver contador"
+        android:id="@+id/menu_conversor"
+        app:showAsAction="always"/>
+    <item android:title="Ver formulario"
+        android:id="@+id/menu_formulario"
+        app:showAsAction="always"/>
+</menu>
